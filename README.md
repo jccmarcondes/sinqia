@@ -22,12 +22,12 @@ Seu objetivo é criar um app com duas telas seguindo o modelo abaixo: uma que ex
 
 
 
-![Tarefas](https://github.com/jccmarcondes/sinqia/tree/master/images/Tarefas.png)
+![Tarefas](https://raw.githubusercontent.com/jccmarcondes/sinqia/master/images/Tarefas.png)
 
 
 
 
-![NovaTarefa](https://github.com/jccmarcondes/sinqia/tree/master/images/NovaTarefa.png)
+![NovaTarefa](https://raw.githubusercontent.com/jccmarcondes/sinqia/master/images/NovaTarefa.png)
 
 
 
@@ -37,7 +37,7 @@ Temos o protótipo no Figma para visualizar melhor os componentes: [Developer/An
 
 Ao acessar o link acima, clique no botão de comentário (formato de balão) para visualizar as dicas que foram deixadas em cada componente e deixe selecionado a página Android, conforme a figura abaixo
 
-![FigmaTips](https://github.com/jccmarcondes/sinqia/tree/master/images/FigmaTips.png)
+![FigmaTips](https://raw.githubusercontent.com/jccmarcondes/sinqia/master/images/FigmaTips.png)
 
 
 
