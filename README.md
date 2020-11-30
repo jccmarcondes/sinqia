@@ -139,6 +139,7 @@ Adicionar nova tarefa
  - [Versão mínima do SDK: 21](https://developer.android.com/about/dashboards);
  - Capricho nos tratamentos e validações dos campos;
  - Tela deve ajustar em devices de resolução pequena, acima de 4 polegadas.
+ - Testes unitários
 
 
 
@@ -162,7 +163,7 @@ Adicionar nova tarefa
 
  - [Boa organização do código-fonte](https://developer.android.com/guide);
  - Boas práticas de Orientação a Objetos;
- - Tempo de entrega do app dentro do aceitável;
+ - Tempo de entrega do app dentro do aceitável (5 dias);
  - Código limpo e de fácil manutenção.
 
 
@@ -174,7 +175,7 @@ Adicionar nova tarefa
 - Caso o upload do projeto for feito no Github ou Bitbucket, envie o link para nós por e-mail: julio.costa@ext.sinqia.com.br
 
  
-- Caso não tenha conta no Github, envie o zip do projeto para julio.costa@ext.sinqia.com.br
+- Caso não tenha conta no Github ou Bitbucket, envie o zip do projeto para julio.costa@ext.sinqia.com.br
 
 
 Desejamos uma boa sorte!!
