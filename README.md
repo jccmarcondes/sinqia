@@ -31,7 +31,7 @@ Seu objetivo é criar um app com duas telas seguindo o modelo abaixo: uma que ex
 
 
 
-Temos o protótipo no Figma para visualizar melhor os componentes: [Developer/Android](https://www.figma.com/file/tj9EOuijFs5JZ3ZNNktLYD/Developer?node-id=0%3A1)
+Temos o protótipo no Figma para visualizar melhor os componentes: [Developer/Android](https://www.figma.com/file/tcrX2mUTh0xxTDSrf4HdvD/Android?node-id=0%3A1)
 
 
 
