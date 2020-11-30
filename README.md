@@ -22,12 +22,12 @@ Seu objetivo é criar um app com duas telas seguindo o modelo abaixo: uma que ex
 
 
 
-![Tarefas](https://github.com/sinqia/teste-android/blob/master/images/Tarefas.png)
+![Tarefas](https://github.com/jccmarcondes/sinqia/tree/master/images/Tarefas.png)
 
 
 
 
-![NovaTarefa](https://github.com/sinqia/teste-android/blob/master/images/NovaTarefa.png)
+![NovaTarefa](https://github.com/jccmarcondes/sinqia/tree/master/images/NovaTarefa.png)
 
 
 
@@ -37,19 +37,17 @@ Temos o protótipo no Figma para visualizar melhor os componentes: [Developer/An
 
 Ao acessar o link acima, clique no botão de comentário (formato de balão) para visualizar as dicas que foram deixadas em cada componente e deixe selecionado a página Android, conforme a figura abaixo
 
-![FigmaTips](https://github.com/sinqia/teste-android/blob/master/images/FigmaTips.png)
+![FigmaTips](https://github.com/jccmarcondes/sinqia/tree/master/images/FigmaTips.png)
 
 
 
 ## Consumindo o serviço de tarefas
 
-A API que realiza a listagem e a adição das tarefas se encontra publicada neste link [aqui](https://documenter.getpostman.com/view/11090068/Szf3YpTy?version=latest).
+A API que realiza a listagem e a adição das tarefas se encontra publicada neste link [aqui](https://documenter.getpostman.com/view/438724/TVmJjfHV).
 
 > Dicas: 
 >
 > - Todas as palavras que contém um sublinhado são um hiperlink que ajudará de alguma forma seu desenvolvimento deste app.
->
-> - Neste link acima você encontrar a documentação da api, na **guia language** selecione **Java - [OkHttp](https://square.github.io/okhttp)**  (essa possivelmente será a sua principal biblioteca no app).
 
 
 
@@ -66,7 +64,7 @@ Listagem das tarefas
  - **QueryString**: opcional
 
 ```ini
-email=julio.costa@ext.sinqia.com.br
+email=teste@sinqia.com.br
 ```
 
  - **Response**
@@ -146,9 +144,9 @@ Adicionar nova tarefa
 
 ### Diferenciais:
 
- - [Android Dagger2] ();
- - [Android Couroutines] ();
- - [Android Room] ();
+ - [Android Dagger2] (https://developer.android.com/training/dependency-injection/dagger-android);
+ - [Android Coroutines] (https://developer.android.com/kotlin/coroutines);
+ - [Android Room] (https://developer.android.com/topic/libraries/architecture/room);
  - [Android Jetpack](https://developer.android.com/jetpack);
  
  
